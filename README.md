@@ -10,10 +10,8 @@ This is a discord.js music bot made with discord-player.
 
 > This bot is being used by 50+ servers.
 
-###
-###
-###
-###
+
+### Features
 Oculet :
 *   Commands are very simple and user-friendly.
 *   Lots of filters to use in.
