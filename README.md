@@ -10,14 +10,10 @@ This is a discord.js music bot made with discord-player.
 
 > This bot is being used by 50+ servers.
 
-
-
-
-
-
-
-
-
+###
+###
+###
+###
 Oculet :
 *   Commands are very simple and user-friendly.
 *   Lots of filters to use in.
@@ -27,7 +23,7 @@ Oculet :
 
 ## Invite
 
-[![Oculet](https://oculetbot.tk/invite)
+[Oculet](https://oculetbot.tk/invite)
 
 ## Links
 *   [Oculet](https://oculebot.tk)
