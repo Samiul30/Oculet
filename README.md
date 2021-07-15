@@ -1,7 +1,7 @@
 # Oculet
 This is a discord.js music bot made with discord-player.
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Oculet" src="https://media.discordapp.net/attachments/827481665856339991/840158608632053830/logo_for_oculet.png">  
+<img width="110" height="110" align="right" style="float: right; margin: 0 10px 0 0;" alt="Oculet" src="https://media.discordapp.net/attachments/827481665856339991/840158608632053830/logo_for_oculet.png">  
 
 [![](https://img.shields.io/discord/695959830912827442.svg?logo=discord&colorB=7289DA&label=Oculet%20Support)](https://discord.gg/abbc668)
 [![](https://img.shields.io/badge/discord.js-v12.5.3--stable-blue.svg?logo=npm)](https://github.com/discordjs)
