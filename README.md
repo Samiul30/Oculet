@@ -26,5 +26,5 @@ Oculet :
 ## Links
 *   [Oculet](https://oculebot.tk)
 *   [Commands List](https://oculetbot.tk/command)
-*   [Docs](https://oculetbot.tk/docs)
+*   [Docs](https://oculetbot.tk/doc)
 *   [Support Server](https://oculetbot.tk/support)
