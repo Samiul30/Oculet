@@ -8,15 +8,16 @@ This is a discord.js music bot made with discord-player.
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/samiul30)
 
 
-> This bot is being used by 50+ servers.
+> This bot is being used by 70+ servers.
 
 
 ### Features
 Oculet :
-*   Commands are very simple and user-friendly.
+*   Totally slash commands supported now.
 *   Lots of filters to use in.
 *   Spotify and SoundCloud support.
 *   Youtube-together module.
+*   Version: 2.0.0
 
 
 ## Invite
@@ -28,3 +29,5 @@ Oculet :
 *   [Commands List](https://oculetbot.tk/command)
 *   [Docs](https://oculetbot.tk/doc)
 *   [Support Server](https://oculetbot.tk/support)
+
+## Requesting everyone to auth or invite it again to deploy slash commands in your guild as discord bot will now perform its function using slash commands basically.
